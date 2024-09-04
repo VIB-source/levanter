@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": "levanter_478021fcc481844d28d84dea39f263800"
+      "value": ""
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
